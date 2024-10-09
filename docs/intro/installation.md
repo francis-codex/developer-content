@@ -167,7 +167,7 @@ rustc --version
 You should see output similar to the following:
 
 ```
-rustc 1.80.1 (3f5fd8dd4 2024-08-06)
+rustc 1.81.0 (eeb90cda1 2024-09-04)
 ```
 
 ### Install the Solana CLI

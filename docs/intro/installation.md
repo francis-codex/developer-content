@@ -75,9 +75,9 @@ You should then see the following in the VS Code status bar:
 
 ![WSL: Ubuntu](/assets/docs/intro/installation/wsl-vscode-ubuntu.png)
 
-Once you have WSL set up, all additional dependencies must be installed through
-the Linux terminal. Install the dependencies specified in the Linux section
-below before proceeding to install Rust, Solana CLI, and Anchor CLI.
+Once WSL is set up, all additional dependencies must be installed through
+the Linux terminal. Please install the dependencies specified in the Linux section
+below before you go ahead and install Rust, Solana CLI, and Anchor CLI.
 
 </AccordionItem>
 <AccordionItem title="Linux">
@@ -237,7 +237,7 @@ solana --version
 You should see output similar to the following:
 
 ```
-solana-cli 1.18.22 (src:9efdd74b; feat:4215500110, client:Agave)
+solana-cli 1.18.25 (src:92ddaa20; feat:3241752014, client:Agave)
 ```
 
 You can view all available versions on the
